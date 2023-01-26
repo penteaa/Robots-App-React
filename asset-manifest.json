@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Robots-App-React/static/css/main.dde6fc2d.css",
+    "main.js": "/Robots-App-React/static/js/main.f13fa515.js",
+    "static/media/SEGA.TTF": "/Robots-App-React/static/media/SEGA.8a619f32417a0fe72728.TTF",
+    "index.html": "/Robots-App-React/index.html",
+    "main.dde6fc2d.css.map": "/Robots-App-React/static/css/main.dde6fc2d.css.map",
+    "main.f13fa515.js.map": "/Robots-App-React/static/js/main.f13fa515.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dde6fc2d.css",
+    "static/js/main.f13fa515.js"
+  ]
+}
